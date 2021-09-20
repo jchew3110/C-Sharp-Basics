@@ -1,0 +1,16 @@
+C:\Users\joshu\Documents\C#\Giraffe\bin\Debug\net5.0\Giraffe.exe
+C:\Users\joshu\Documents\C#\Giraffe\bin\Debug\net5.0\Giraffe.deps.json
+C:\Users\joshu\Documents\C#\Giraffe\bin\Debug\net5.0\Giraffe.runtimeconfig.json
+C:\Users\joshu\Documents\C#\Giraffe\bin\Debug\net5.0\Giraffe.runtimeconfig.dev.json
+C:\Users\joshu\Documents\C#\Giraffe\bin\Debug\net5.0\Giraffe.dll
+C:\Users\joshu\Documents\C#\Giraffe\bin\Debug\net5.0\ref\Giraffe.dll
+C:\Users\joshu\Documents\C#\Giraffe\bin\Debug\net5.0\Giraffe.pdb
+C:\Users\joshu\Documents\C#\Giraffe\obj\Debug\net5.0\Giraffe.csproj.AssemblyReference.cache
+C:\Users\joshu\Documents\C#\Giraffe\obj\Debug\net5.0\Giraffe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshu\Documents\C#\Giraffe\obj\Debug\net5.0\Giraffe.AssemblyInfoInputs.cache
+C:\Users\joshu\Documents\C#\Giraffe\obj\Debug\net5.0\Giraffe.AssemblyInfo.cs
+C:\Users\joshu\Documents\C#\Giraffe\obj\Debug\net5.0\Giraffe.csproj.CoreCompileInputs.cache
+C:\Users\joshu\Documents\C#\Giraffe\obj\Debug\net5.0\Giraffe.dll
+C:\Users\joshu\Documents\C#\Giraffe\obj\Debug\net5.0\ref\Giraffe.dll
+C:\Users\joshu\Documents\C#\Giraffe\obj\Debug\net5.0\Giraffe.pdb
+C:\Users\joshu\Documents\C#\Giraffe\obj\Debug\net5.0\Giraffe.genruntimeconfig.cache

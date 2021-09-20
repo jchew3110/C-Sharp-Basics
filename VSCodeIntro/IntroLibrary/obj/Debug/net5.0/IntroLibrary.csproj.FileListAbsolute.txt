@@ -1,0 +1,12 @@
+/mnt/c/Users/joshu/Documents/C#/VSCodeIntro/IntroLibrary/bin/Debug/net5.0/IntroLibrary.deps.json
+/mnt/c/Users/joshu/Documents/C#/VSCodeIntro/IntroLibrary/bin/Debug/net5.0/IntroLibrary.dll
+/mnt/c/Users/joshu/Documents/C#/VSCodeIntro/IntroLibrary/bin/Debug/net5.0/ref/IntroLibrary.dll
+/mnt/c/Users/joshu/Documents/C#/VSCodeIntro/IntroLibrary/bin/Debug/net5.0/IntroLibrary.pdb
+/mnt/c/Users/joshu/Documents/C#/VSCodeIntro/IntroLibrary/obj/Debug/net5.0/IntroLibrary.csproj.AssemblyReference.cache
+/mnt/c/Users/joshu/Documents/C#/VSCodeIntro/IntroLibrary/obj/Debug/net5.0/IntroLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/joshu/Documents/C#/VSCodeIntro/IntroLibrary/obj/Debug/net5.0/IntroLibrary.AssemblyInfoInputs.cache
+/mnt/c/Users/joshu/Documents/C#/VSCodeIntro/IntroLibrary/obj/Debug/net5.0/IntroLibrary.AssemblyInfo.cs
+/mnt/c/Users/joshu/Documents/C#/VSCodeIntro/IntroLibrary/obj/Debug/net5.0/IntroLibrary.csproj.CoreCompileInputs.cache
+/mnt/c/Users/joshu/Documents/C#/VSCodeIntro/IntroLibrary/obj/Debug/net5.0/IntroLibrary.dll
+/mnt/c/Users/joshu/Documents/C#/VSCodeIntro/IntroLibrary/obj/Debug/net5.0/ref/IntroLibrary.dll
+/mnt/c/Users/joshu/Documents/C#/VSCodeIntro/IntroLibrary/obj/Debug/net5.0/IntroLibrary.pdb

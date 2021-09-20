@@ -1,0 +1,12 @@
+/mnt/c/Users/joshu/Documents/C#/classes/classesBook/bin/Debug/net5.0/classesBook.deps.json
+/mnt/c/Users/joshu/Documents/C#/classes/classesBook/bin/Debug/net5.0/classesBook.dll
+/mnt/c/Users/joshu/Documents/C#/classes/classesBook/bin/Debug/net5.0/ref/classesBook.dll
+/mnt/c/Users/joshu/Documents/C#/classes/classesBook/bin/Debug/net5.0/classesBook.pdb
+/mnt/c/Users/joshu/Documents/C#/classes/classesBook/obj/Debug/net5.0/classesBook.csproj.AssemblyReference.cache
+/mnt/c/Users/joshu/Documents/C#/classes/classesBook/obj/Debug/net5.0/classesBook.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/joshu/Documents/C#/classes/classesBook/obj/Debug/net5.0/classesBook.AssemblyInfoInputs.cache
+/mnt/c/Users/joshu/Documents/C#/classes/classesBook/obj/Debug/net5.0/classesBook.AssemblyInfo.cs
+/mnt/c/Users/joshu/Documents/C#/classes/classesBook/obj/Debug/net5.0/classesBook.csproj.CoreCompileInputs.cache
+/mnt/c/Users/joshu/Documents/C#/classes/classesBook/obj/Debug/net5.0/classesBook.dll
+/mnt/c/Users/joshu/Documents/C#/classes/classesBook/obj/Debug/net5.0/ref/classesBook.dll
+/mnt/c/Users/joshu/Documents/C#/classes/classesBook/obj/Debug/net5.0/classesBook.pdb

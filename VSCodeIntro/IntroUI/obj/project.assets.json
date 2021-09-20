@@ -1,0 +1,122 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Dapper/2.0.90": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Dapper.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/Dapper.dll": {}
+        }
+      },
+      "IntroLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/IntroLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IntroLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dapper/2.0.90": {
+      "sha512": "e4YjOLJptnpwHIbP8HxjaYf7So9lhUC43rvvGMEkH4Q4CiVlm4rOxYDo0HyuHlMQKj0U5Ob/nCMm52TUhTaZQg==",
+      "type": "package",
+      "path": "dapper/2.0.90",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Dapper.png",
+        "dapper.2.0.90.nupkg.sha512",
+        "dapper.nuspec",
+        "lib/net461/Dapper.dll",
+        "lib/net461/Dapper.xml",
+        "lib/net5.0/Dapper.dll",
+        "lib/net5.0/Dapper.xml",
+        "lib/netstandard2.0/Dapper.dll",
+        "lib/netstandard2.0/Dapper.xml"
+      ]
+    },
+    "IntroLibrary/1.0.0": {
+      "type": "project",
+      "path": "../IntroLibrary/IntroLibrary.csproj",
+      "msbuildProject": "../IntroLibrary/IntroLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Dapper >= 2.0.90",
+      "IntroLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/j_chew/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/mnt/c/Users/joshu/Documents/C#/VSCodeIntro/IntroUI/IntroUI.csproj",
+      "projectName": "IntroUI",
+      "projectPath": "/mnt/c/Users/joshu/Documents/C#/VSCodeIntro/IntroUI/IntroUI.csproj",
+      "packagesPath": "/home/j_chew/.nuget/packages/",
+      "outputPath": "/mnt/c/Users/joshu/Documents/C#/VSCodeIntro/IntroUI/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/j_chew/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "/mnt/c/Users/joshu/Documents/C#/VSCodeIntro/IntroLibrary/IntroLibrary.csproj": {
+              "projectPath": "/mnt/c/Users/joshu/Documents/C#/VSCodeIntro/IntroLibrary/IntroLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "dependencies": {
+          "Dapper": {
+            "target": "Package",
+            "version": "[2.0.90, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

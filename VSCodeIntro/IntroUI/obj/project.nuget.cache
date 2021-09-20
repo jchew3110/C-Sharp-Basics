@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KH2AGlogQGY7NufA27ZjP2v+texSdaqO4JESmVE1dZ7s+/3WUGLilK2S4/70i3Aes4NvKT9TShr5XSPIfPNXzA==",
+  "success": true,
+  "projectFilePath": "/mnt/c/Users/joshu/Documents/C#/VSCodeIntro/IntroUI/IntroUI.csproj",
+  "expectedPackageFiles": [
+    "/home/j_chew/.nuget/packages/dapper/2.0.90/dapper.2.0.90.nupkg.sha512"
+  ],
+  "logs": []
+}
