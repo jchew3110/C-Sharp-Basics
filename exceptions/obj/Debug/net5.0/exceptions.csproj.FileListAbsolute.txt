@@ -1,0 +1,16 @@
+/mnt/c/Users/joshu/Documents/git/C-Sharp-Basics/exceptions/bin/Debug/net5.0/exceptions
+/mnt/c/Users/joshu/Documents/git/C-Sharp-Basics/exceptions/bin/Debug/net5.0/exceptions.deps.json
+/mnt/c/Users/joshu/Documents/git/C-Sharp-Basics/exceptions/bin/Debug/net5.0/exceptions.runtimeconfig.json
+/mnt/c/Users/joshu/Documents/git/C-Sharp-Basics/exceptions/bin/Debug/net5.0/exceptions.runtimeconfig.dev.json
+/mnt/c/Users/joshu/Documents/git/C-Sharp-Basics/exceptions/bin/Debug/net5.0/exceptions.dll
+/mnt/c/Users/joshu/Documents/git/C-Sharp-Basics/exceptions/bin/Debug/net5.0/ref/exceptions.dll
+/mnt/c/Users/joshu/Documents/git/C-Sharp-Basics/exceptions/bin/Debug/net5.0/exceptions.pdb
+/mnt/c/Users/joshu/Documents/git/C-Sharp-Basics/exceptions/obj/Debug/net5.0/exceptions.csproj.AssemblyReference.cache
+/mnt/c/Users/joshu/Documents/git/C-Sharp-Basics/exceptions/obj/Debug/net5.0/exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/joshu/Documents/git/C-Sharp-Basics/exceptions/obj/Debug/net5.0/exceptions.AssemblyInfoInputs.cache
+/mnt/c/Users/joshu/Documents/git/C-Sharp-Basics/exceptions/obj/Debug/net5.0/exceptions.AssemblyInfo.cs
+/mnt/c/Users/joshu/Documents/git/C-Sharp-Basics/exceptions/obj/Debug/net5.0/exceptions.csproj.CoreCompileInputs.cache
+/mnt/c/Users/joshu/Documents/git/C-Sharp-Basics/exceptions/obj/Debug/net5.0/exceptions.dll
+/mnt/c/Users/joshu/Documents/git/C-Sharp-Basics/exceptions/obj/Debug/net5.0/ref/exceptions.dll
+/mnt/c/Users/joshu/Documents/git/C-Sharp-Basics/exceptions/obj/Debug/net5.0/exceptions.pdb
+/mnt/c/Users/joshu/Documents/git/C-Sharp-Basics/exceptions/obj/Debug/net5.0/exceptions.genruntimeconfig.cache
